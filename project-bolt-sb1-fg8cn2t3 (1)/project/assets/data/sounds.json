@@ -1,0 +1,84 @@
+{
+  "sounds": [
+    {
+      "id": "1",
+      "title": "Gentle Rain",
+      "description": "Soothing sounds of gentle rainfall",
+      "image": "https://images.pexels.com/photos/1530423/pexels-photo-1530423.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "mp3Url": "https://assets.mixkit.co/music/preview/mixkit-light-rain-loop-2393.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "2",
+      "title": "Crackling Fire",
+      "description": "Warm and cozy campfire sounds",
+      "image": "https://images.pexels.com/photos/2832034/pexels-photo-2832034.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "mp3Url": "https://assets.mixkit.co/music/preview/mixkit-campfire-crackles-1330.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "3",
+      "title": "Forest Birds",
+      "description": "Peaceful forest with birds chirping",
+      "image": "https://images.pexels.com/photos/957024/forest-trees-perspective-bright-957024.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "mp3Url": "https://assets.mixkit.co/music/preview/mixkit-morning-birds-2472.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "4",
+      "title": "Thunderstorm",
+      "description": "Powerful thunderstorm with rain",
+      "image": "https://images.pexels.com/photos/2418664/pexels-photo-2418664.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "mp3Url": "https://assets.mixkit.co/music/preview/mixkit-thunder-storm-2390.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "5",
+      "title": "Ocean Waves",
+      "description": "Calming ocean waves on the beach",
+      "image": "https://images.pexels.com/photos/1295138/pexels-photo-1295138.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "mp3Url": "https://assets.mixkit.co/music/preview/mixkit-ocean-waves-loop-2449.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "6", 
+      "title": "Pink Noise",
+      "description": "Balanced frequency noise for better sleep",
+      "image": "https://images.pexels.com/photos/3255761/pexels-photo-3255761.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "mp3Url": "https://assets.mixkit.co/music/preview/mixkit-pink-noise-loop-2448.mp3",
+      "category": "noise"
+    },
+    {
+      "id": "7",
+      "title": "Brown Noise",
+      "description": "Deep, rich noise for focus and relaxation",
+      "image": "https://images.pexels.com/photos/4100130/pexels-photo-4100130.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "mp3Url": "https://assets.mixkit.co/music/preview/mixkit-brown-noise-loop-2447.mp3",
+      "category": "noise"
+    },
+    {
+      "id": "8",
+      "title": "White Noise",
+      "description": "Classic white noise for sound masking",
+      "image": "https://images.pexels.com/photos/7130560/pexels-photo-7130560.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "mp3Url": "https://assets.mixkit.co/music/preview/mixkit-white-noise-loop-2446.mp3",
+      "category": "noise"
+    },
+    {
+      "id": "9",
+      "title": "Wind Chimes",
+      "description": "Gentle wind chimes in the breeze",
+      "image": "https://images.pexels.com/photos/1840794/pexels-photo-1840794.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "mp3Url": "https://assets.mixkit.co/music/preview/mixkit-wind-chimes-2471.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "10",
+      "title": "Night Crickets",
+      "description": "Peaceful cricket sounds at night",
+      "image": "https://images.pexels.com/photos/7919/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+      "mp3Url": "https://assets.mixkit.co/music/preview/mixkit-night-crickets-2470.mp3",
+      "category": "nature"
+    }
+  ]
+}

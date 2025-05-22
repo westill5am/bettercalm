@@ -1,0 +1,752 @@
+[
+  {
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "motivation"
+  },
+  {
+    "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "text": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "text": "The harder you work for something, the greater you'll feel when you achieve it.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "Don't stop when you're tired. Stop when you're done.",
+    "author": "Unknown",
+    "category": "motivation"
+  },
+  {
+    "text": "Wake up with determination. Go to bed with satisfaction.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "It's going to be hard, but hard does not mean impossible.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "Dream bigger. Do bigger.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "Don't wait for opportunity. Create it.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "The key to success is to focus on goals, not obstacles.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "Dream it. Believe it. Build it.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "Your limitation—it's only your imagination.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "category": "success"
+  },
+  {
+    "text": "Success is not the key to happiness. Happiness is the key to success.",
+    "author": "Albert Schweitzer",
+    "category": "success"
+  },
+  {
+    "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "category": "success"
+  },
+  {
+    "text": "The road to success and the road to failure are almost exactly the same.",
+    "author": "Colin R. Davis",
+    "category": "success"
+  },
+  {
+    "text": "Success isn't always about greatness. It's about consistency.",
+    "author": "Dwayne Johnson",
+    "category": "success"
+  },
+  {
+    "text": "The secret of success is to do the common things uncommonly well.",
+    "author": "John D. Rockefeller",
+    "category": "success"
+  },
+  {
+    "text": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon",
+    "category": "success"
+  },
+  {
+    "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+    "author": "Maya Angelou",
+    "category": "success"
+  },
+  {
+    "text": "The difference between successful people and very successful people is that very successful people say no to almost everything.",
+    "author": "Warren Buffett",
+    "category": "success"
+  },
+  {
+    "text": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett",
+    "category": "success"
+  },
+  {
+    "text": "Success is the sum of small efforts repeated day in and day out.",
+    "author": "Robert Collier",
+    "category": "success"
+  },
+  {
+    "text": "The path to success is to take massive, determined action.",
+    "author": "Tony Robbins",
+    "category": "success"
+  },
+  {
+    "text": "Success means doing the best we can with what we have.",
+    "author": "Zig Ziglar",
+    "category": "success"
+  },
+  {
+    "text": "Success is where preparation and opportunity meet.",
+    "author": "Bobby Unser",
+    "category": "success"
+  },
+  {
+    "text": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+    "author": "Colin Powell",
+    "category": "success"
+  },
+  {
+    "text": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "life"
+  },
+  {
+    "text": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius",
+    "category": "life"
+  },
+  {
+    "text": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "life"
+  },
+  {
+    "text": "Life is 10% what happens to you and 90% how you react to it.",
+    "author": "Charles R. Swindoll",
+    "category": "life"
+  },
+  {
+    "text": "Life isn't about finding yourself. Life is about creating yourself.",
+    "author": "George Bernard Shaw",
+    "category": "life"
+  },
+  {
+    "text": "Life is short, and it's up to you to make it sweet.",
+    "author": "Sarah Louise Delany",
+    "category": "life"
+  },
+  {
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein",
+    "category": "life"
+  },
+  {
+    "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+    "author": "Maya Angelou",
+    "category": "life"
+  },
+  {
+    "text": "Life is a succession of lessons which must be lived to be understood.",
+    "author": "Ralph Waldo Emerson",
+    "category": "life"
+  },
+  {
+    "text": "Life is not about waiting for the storm to pass but learning to dance in the rain.",
+    "author": "Vivian Greene",
+    "category": "life"
+  },
+  {
+    "text": "Life is a journey, not a destination.",
+    "author": "Ralph Waldo Emerson",
+    "category": "life"
+  },
+  {
+    "text": "Life is what we make it, always has been, always will be.",
+    "author": "Grandma Moses",
+    "category": "life"
+  },
+  {
+    "text": "Life is too important to be taken seriously.",
+    "author": "Oscar Wilde",
+    "category": "life"
+  },
+  {
+    "text": "Life is about making an impact, not making an income.",
+    "author": "Kevin Kruse",
+    "category": "life"
+  },
+  {
+    "text": "Life shrinks or expands in proportion to one's courage.",
+    "author": "Anaïs Nin",
+    "category": "life"
+  },
+  {
+    "text": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "happiness"
+  },
+  {
+    "text": "The most important thing is to enjoy your life—to be happy—it's all that matters.",
+    "author": "Audrey Hepburn",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is not by chance, but by choice.",
+    "author": "Jim Rohn",
+    "category": "happiness"
+  },
+  {
+    "text": "The secret of happiness is freedom, the secret of freedom is courage.",
+    "author": "Thucydides",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "author": "Mahatma Gandhi",
+    "category": "happiness"
+  },
+  {
+    "text": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is not having what you want. It is wanting what you have.",
+    "author": "Rabbi Hyman Schachtel",
+    "category": "happiness"
+  },
+  {
+    "text": "The greatest happiness of life is the conviction that we are loved.",
+    "author": "Victor Hugo",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is a direction, not a place.",
+    "author": "Sydney J. Harris",
+    "category": "happiness"
+  },
+  {
+    "text": "The only joy in the world is to begin.",
+    "author": "Cesare Pavese",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is the art of never holding in your mind the memory of any unpleasant thing that has passed.",
+    "author": "Unknown",
+    "category": "happiness"
+  },
+  {
+    "text": "True happiness is... to enjoy the present, without anxious dependence upon the future.",
+    "author": "Lucius Annaeus Seneca",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is not something you postpone for the future; it is something you design for the present.",
+    "author": "Jim Rohn",
+    "category": "happiness"
+  },
+  {
+    "text": "The secret of being happy is accepting where you are in life and making the most out of everyday.",
+    "author": "Unknown",
+    "category": "happiness"
+  },
+  {
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "category": "mindset"
+  },
+  {
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford",
+    "category": "mindset"
+  },
+  {
+    "text": "Everything is possible. The impossible just takes longer.",
+    "author": "Dan Brown",
+    "category": "mindset"
+  },
+  {
+    "text": "Your attitude determines your direction.",
+    "author": "Ralph Waldo Emerson",
+    "category": "mindset"
+  },
+  {
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "mindset"
+  },
+  {
+    "text": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale",
+    "category": "mindset"
+  },
+  {
+    "text": "What you focus on expands.",
+    "author": "Unknown",
+    "category": "mindset"
+  },
+  {
+    "text": "The quality of your life is a direct reflection of the quality of your thoughts.",
+    "author": "Unknown",
+    "category": "mindset"
+  },
+  {
+    "text": "Your mind is a powerful thing. When you fill it with positive thoughts, your life will start to change.",
+    "author": "Unknown",
+    "category": "mindset"
+  },
+  {
+    "text": "Success is a state of mind. If you want success, start thinking of yourself as a success.",
+    "author": "Joyce Brothers",
+    "category": "mindset"
+  },
+  {
+    "text": "The mind is like a parachute. It only works when it's open.",
+    "author": "Frank Zappa",
+    "category": "mindset"
+  },
+  {
+    "text": "Once you replace negative thoughts with positive ones, you'll start having positive results.",
+    "author": "Willie Nelson",
+    "category": "mindset"
+  },
+  {
+    "text": "Whatever the mind can conceive and believe, it can achieve.",
+    "author": "Napoleon Hill",
+    "category": "mindset"
+  },
+  {
+    "text": "Your mindset determines your reality.",
+    "author": "Unknown",
+    "category": "mindset"
+  },
+  {
+    "text": "A positive mindset brings positive things.",
+    "author": "Unknown",
+    "category": "mindset"
+  },
+  {
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "perseverance"
+  },
+  {
+    "text": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "perseverance"
+  },
+  {
+    "text": "The difference between a successful person and others is not lack of strength not a lack of knowledge but rather a lack in will.",
+    "author": "Vince Lombardi",
+    "category": "perseverance"
+  },
+  {
+    "text": "Perseverance is not a long race; it is many short races one after another.",
+    "author": "Walter Elliott",
+    "category": "perseverance"
+  },
+  {
+    "text": "The only guarantee for failure is to stop trying.",
+    "author": "John C. Maxwell",
+    "category": "perseverance"
+  },
+  {
+    "text": "Through perseverance many people win success out of what seemed destined to be certain failure.",
+    "author": "Benjamin Disraeli",
+    "category": "perseverance"
+  },
+  {
+    "text": "The difference between the impossible and the possible lies in a person's determination.",
+    "author": "Tommy Lasorda",
+    "category": "perseverance"
+  },
+  {
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "perseverance"
+  },
+  {
+    "text": "When you feel like giving up, remember why you held on for so long in the first place.",
+    "author": "Unknown",
+    "category": "perseverance"
+  },
+  {
+    "text": "Success seems to be connected with action. Successful people keep moving.",
+    "author": "Conrad Hilton",
+    "category": "perseverance"
+  },
+  {
+    "text": "Perseverance is failing 19 times and succeeding the 20th.",
+    "author": "Julie Andrews",
+    "category": "perseverance"
+  },
+  {
+    "text": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "perseverance"
+  },
+  {
+    "text": "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.",
+    "author": "Pelé",
+    "category": "perseverance"
+  },
+  {
+    "text": "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
+    "author": "John Quincy Adams",
+    "category": "perseverance"
+  },
+  {
+    "text": "The greatest oak was once a little nut who held its ground.",
+    "author": "Unknown",
+    "category": "perseverance"
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "motivation"
+  },
+  {
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "text": "Everything you've ever wanted is on the other side of fear.",
+    "author": "George Addair",
+    "category": "motivation"
+  },
+  {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe",
+    "category": "motivation"
+  },
+  {
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Zig Ziglar",
+    "category": "motivation"
+  },
+  {
+    "text": "The harder you work for something, the greater you'll feel when you achieve it.",
+    "author": "Anonymous",
+    "category": "motivation"
+  },
+  {
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "motivation"
+  },
+  {
+    "text": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "category": "motivation"
+  },
+  {
+    "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "success"
+  },
+  {
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "success"
+  },
+  {
+    "text": "Don't be afraid to give up the good to go for the great.",
+    "author": "John D. Rockefeller",
+    "category": "success"
+  },
+  {
+    "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "category": "success"
+  },
+  {
+    "text": "I find that the harder I work, the more luck I seem to have.",
+    "author": "Thomas Jefferson",
+    "category": "success"
+  },
+  {
+    "text": "Success is not just about making money. It's about making a difference.",
+    "author": "Unknown",
+    "category": "success"
+  },
+  {
+    "text": "The road to success is always under construction.",
+    "author": "Lily Tomlin",
+    "category": "success"
+  },
+  {
+    "text": "Success is the sum of small efforts, repeated day in and day out.",
+    "author": "Robert Collier",
+    "category": "success"
+  },
+  {
+    "text": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon",
+    "category": "success"
+  },
+  {
+    "text": "Success is not the key to happiness. Happiness is the key to success.",
+    "author": "Albert Schweitzer",
+    "category": "success"
+  },
+  {
+    "text": "Life is not about waiting for the storm to pass but learning to dance in the rain.",
+    "author": "Vivian Greene",
+    "category": "life"
+  },
+  {
+    "text": "Life is 10% what happens to you and 90% how you react to it.",
+    "author": "Charles R. Swindoll",
+    "category": "life"
+  },
+  {
+    "text": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "life"
+  },
+  {
+    "text": "Life is what happens while you are busy making other plans.",
+    "author": "John Lennon",
+    "category": "life"
+  },
+  {
+    "text": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius",
+    "category": "life"
+  },
+  {
+    "text": "Life isn't about finding yourself. Life is about creating yourself.",
+    "author": "George Bernard Shaw",
+    "category": "life"
+  },
+  {
+    "text": "Life is a succession of lessons which must be lived to be understood.",
+    "author": "Ralph Waldo Emerson",
+    "category": "life"
+  },
+  {
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein",
+    "category": "life"
+  },
+  {
+    "text": "Life is short, and it's up to you to make it sweet.",
+    "author": "Sarah Louise Delany",
+    "category": "life"
+  },
+  {
+    "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+    "author": "Maya Angelou",
+    "category": "life"
+  },
+  {
+    "text": "Happiness is not something ready-made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "happiness"
+  },
+  {
+    "text": "The most important thing is to enjoy your life—to be happy—it's all that matters.",
+    "author": "Audrey Hepburn",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "author": "Mahatma Gandhi",
+    "category": "happiness"
+  },
+  {
+    "text": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is not having what you want. It is wanting what you have.",
+    "author": "Rabbi Hyman Schachtel",
+    "category": "happiness"
+  },
+  {
+    "text": "The greatest happiness of life is the conviction that we are loved.",
+    "author": "Victor Hugo",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is a direction, not a place.",
+    "author": "Sydney J. Harris",
+    "category": "happiness"
+  },
+  {
+    "text": "The only joy in the world is to begin.",
+    "author": "Cesare Pavese",
+    "category": "happiness"
+  },
+  {
+    "text": "True happiness is... to enjoy the present, without anxious dependence upon the future.",
+    "author": "Lucius Annaeus Seneca",
+    "category": "happiness"
+  },
+  {
+    "text": "Happiness is not something you postpone for the future; it is something you design for the present.",
+    "author": "Jim Rohn",
+    "category": "happiness"
+  },
+  {
+    "text": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale",
+    "category": "mindset"
+  },
+  {
+    "text": "Everything is possible. The impossible just takes longer.",
+    "author": "Dan Brown",
+    "category": "mindset"
+  },
+  {
+    "text": "Your attitude determines your direction.",
+    "author": "Ralph Waldo Emerson",
+    "category": "mindset"
+  },
+  {
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "category": "mindset"
+  },
+  {
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford",
+    "category": "mindset"
+  },
+  {
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "mindset"
+  },
+  {
+    "text": "What you focus on expands.",
+    "author": "Unknown",
+    "category": "mindset"
+  },
+  {
+    "text": "The quality of your life is a direct reflection of the quality of your thoughts.",
+    "author": "Unknown",
+    "category": "mindset"
+  },
+  {
+    "text": "Your mind is a powerful thing. When you fill it with positive thoughts, your life will start to change.",
+    "author": "Unknown",
+    "category": "mindset"
+  },
+  {
+    "text": "Success is a state of mind. If you want success, start thinking of yourself as a success.",
+    "author": "Joyce Brothers",
+    "category": "mindset"
+  },
+  {
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "perseverance"
+  },
+  {
+    "text": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "perseverance"
+  },
+  {
+    "text": "The difference between a successful person and others is not lack of strength not a lack of knowledge but rather a lack in will.",
+    "author": "Vince Lombardi",
+    "category": "perseverance"
+  },
+  {
+    "text": "Perseverance is not a long race; it is many short races one after another.",
+    "author": "Walter Elliott",
+    "category": "perseverance"
+  },
+  {
+    "text": "The only guarantee for failure is to stop trying.",
+    "author": "John C. Maxwell",
+    "category": "perseverance"
+  },
+  {
+    "text": "Through perseverance many people win success out of what seemed destined to be certain failure.",
+    "author": "Benjamin Disraeli",
+    "category": "perseverance"
+  },
+  {
+    "text": "The difference between the impossible and the possible lies in a person's determination.",
+    "author": "Tommy Lasorda",
+    "category": "perseverance"
+  },
+  {
+    "text": "Success seems to be connected with action. Successful people keep moving.",
+    "author": "Conrad Hilton",
+    "category": "perseverance"
+  },
+  {
+    "text": "Perseverance is failing 19 times and succeeding the 20th.",
+    "author": "Julie Andrews",
+    "category": "perseverance"
+  },
+  {
+    "text": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "perseverance"
+  }
+]

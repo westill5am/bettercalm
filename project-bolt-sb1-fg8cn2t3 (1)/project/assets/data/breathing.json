@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "name": "4-7-8 Technique",
+    "description": "A relaxation technique to help you fall asleep quickly.",
+    "steps": [
+      { "phase": "inhale", "seconds": 4 },
+      { "phase": "hold", "seconds": 7 },
+      { "phase": "exhale", "seconds": 8 }
+    ],
+    "benefits": ["Reduces anxiety", "Helps fall asleep", "Manages cravings"]
+  },
+  {
+    "id": "2",
+    "name": "Box Breathing",
+    "description": "Used by Navy SEALs to reduce stress and improve focus.",
+    "steps": [
+      { "phase": "inhale", "seconds": 4 },
+      { "phase": "hold", "seconds": 4 },
+      { "phase": "exhale", "seconds": 4 },
+      { "phase": "hold", "seconds": 4 }
+    ],
+    "benefits": ["Improves concentration", "Reduces stress", "Increases performance"]
+  },
+  {
+    "id": "3",
+    "name": "Calming Breath",
+    "description": "A simple technique to bring immediate calm.",
+    "steps": [
+      { "phase": "inhale", "seconds": 3 },
+      { "phase": "hold", "seconds": 1 },
+      { "phase": "exhale", "seconds": 6 }
+    ],
+    "benefits": ["Reduces heart rate", "Relieves tension", "Brings mental clarity"]
+  },
+  {
+    "id": "4",
+    "name": "Energizing Breath",
+    "description": "Quick technique to increase alertness and energy.",
+    "steps": [
+      { "phase": "inhale", "seconds": 1 },
+      { "phase": "exhale", "seconds": 1 },
+      { "phase": "inhale", "seconds": 1 },
+      { "phase": "exhale", "seconds": 1 }
+    ],
+    "benefits": ["Increases energy", "Improves alertness", "Boosts circulation"]
+  }
+]
